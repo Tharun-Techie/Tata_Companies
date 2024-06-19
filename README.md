@@ -9,7 +9,7 @@ This document contains a comprehensive list of Tata Group companies and their su
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<ul class=" dropdown-menu inner show">
     <li class="selected active"><a role="option" class="dropdown-item selected active" aria-disabled="false"
-            tabindex="0" aria-selected="true"><span class="text"></span>h1>Companies List</h1></span></a></li>
+            tabindex="0" aria-selected="true"><span class="text"></span><h1>Companies List</h1></span></a></li>
     <li><a role="option" class="dropdown-item" aria-disabled="false" tabindex="0" aria-selected="false"><span
                 class="text">Agratas Energy Storage Solutions</span></a></li>
     <li><a role="option" class="dropdown-item" aria-disabled="false" tabindex="0" aria-selected="false"><span
